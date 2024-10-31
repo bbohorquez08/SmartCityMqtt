@@ -1,0 +1,21 @@
+[
+  {
+    "ContainingType": "SmartCity.Application.Features.Mqtt.V1.Queries.MqttConnect.MqttConnectEndPoint\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRoutes\u003Eb__2_0",
+    "RelativePath": "api/mqtt/last-message",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "MQTT"
+    ]
+  }
+]
